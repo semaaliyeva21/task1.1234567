@@ -1,0 +1,38 @@
+.background-img{
+    width: 400px;
+    height: 460px;
+    background-size: cover;
+    background-image: url("task3.jpeg");
+    position: absolute
+}
+.text{
+    display: flex;
+    justify-content: center;
+    width: 220px;
+    height: 60px;
+    text-align: right;
+    color: black;
+    background-color: whitesmoke;
+    font-size: 11px;
+    font-weight: bold;
+    margin-top: 360px;
+    font-family: 'M PLUS 1p', sans-serif;
+}
+.first h4{
+    color: rgb(162, 160, 160);
+    font-size: 20px;
+}
+.first h1{
+    color: rgb(38, 37, 37);
+    font-size: 22px;
+}
+.first p{
+    color: rgb(38, 37, 37);
+    font-size: 18px;
+    font-weight: bold;
+}
+.first{
+     position: relative;
+     top: 420px;
+     font-family: 'M PLUS 1p', sans-serif;
+}

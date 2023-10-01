@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+.scroll-bg{
+    background-color: rgba(202, 40, 200, 0.164);
+    width: 400px;
+    margin: 10% auto;
+    border: 3px solid rgb(240, 231, 102);
+}
+.scroll-div{
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    overflow: auto;
+    overflow-y: scroll;
+}
+.scroll-object{
+    color: black;
+    font-size: 15px;
+    padding-top: 5px;
+    margin-top: 0;
+}
+h2{
+    height: 50px;
+    font-size: 40px;
+    background-color: rgba(243, 29, 154, 0.782);
+    position: sticky;
+    top: 0;
+}
+p{
+    display: block;
+}
